@@ -8,6 +8,8 @@
 #include <stdio.h>
 
 
+
+
 FILE *f = NULL;
 t_entete ent;
 tbloc buf;
